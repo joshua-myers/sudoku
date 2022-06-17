@@ -2,7 +2,7 @@
   "name": "sudoku",
   "version": "1.0.0",
   "private": true,
-  "author": "Amith Raravi <amith.raravi@gmail.com>",
+  "author": "Josh Myers",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
